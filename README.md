@@ -5,7 +5,7 @@
 
 ## 🏠 Built With:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vite,bootstrap,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite)](https://skillicons.dev)
 
 ## 🛠 Skills
 
