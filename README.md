@@ -11,10 +11,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github)](https://skillicons.dev)
 
-## 🚀 About Me
-Specializations:
-- UI/UX Design.
-- Web Development
 
 ## 🙋‍♂️ Connect With Me
 
